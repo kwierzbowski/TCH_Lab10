@@ -1,3 +1,1 @@
-# Laboratorium
-
-GitHub Actions - przeglad podstawowych rozwiazan
+# Technologie chmurowe: Laboratorium 10
