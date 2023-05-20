@@ -39,4 +39,4 @@ jobs:
           file: ./Dockerfile_prod
           push: true
           tags: |
-            95605/TCH:L10
+            95605/95605:TCH_L10
