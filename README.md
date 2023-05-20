@@ -1,2 +1,3 @@
-# TCH_Lab10
-Technologie Chmurowe: Laboratorium 10
+# Laboratorium
+
+GitHub Actions - przeglad podstawowych rozwiazan
