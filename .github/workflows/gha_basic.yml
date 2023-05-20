@@ -6,7 +6,7 @@ on:
 #    branches: [ main ]
 
 jobs:
-  build-push-image-to-multiple-registry:
+  build-push-image:
     name: Build and push Docker image to Docker Hub
     runs-on: ubuntu-latest
     
